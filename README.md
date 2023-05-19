@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Bankupalle laxman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blamex321&label=Profile%20views&color=0e75b6&style=flat" alt="blamex321" /> </p>
 
-- 🌱 I’m currently learning **React and DevOPs**
+- 🌱 I’m currently learning **Advanced Backend Development**
 
 - 📫 How to reach me **laxman22072003@gmail.com**
 
