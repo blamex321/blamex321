@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **laxman22072003@gmail.com**
 
-- Check out my portfolio Page at  <a href="https://bankupalle-laxman.tech/" target="_blank" rel="noreferrer">
+- Check out my portfolio Page at **https://bankupalle-laxman.tech/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
